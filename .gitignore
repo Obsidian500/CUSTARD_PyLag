@@ -219,3 +219,6 @@ __marimo__/
 
 # Data files
 *.nc
+*.dat
+sim_runs/*
+!sim_runs/.gitkeep
